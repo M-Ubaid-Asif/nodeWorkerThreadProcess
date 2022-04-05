@@ -1,4 +1,4 @@
 # nodeWorkerThreadProcess
 #### run
-npm i 
-node main.js
+* npm i
+* node main.js
